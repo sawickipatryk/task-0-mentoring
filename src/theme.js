@@ -26,8 +26,8 @@ const theme = createTheme({
       secondary: 'rgba(255, 255, 255, 0.7)'
     },
     background: {
-      firstBackgroundColor: '#fff',
-      secondBackgroundColor: '#111',
+      firstBackgroundColor: 'hsl(207, 26%, 17%)',
+      secondBackgroundColor: 'hsl(209, 23%, 22%)',
       navBarBackgroundColor: '#111'
     }
   },
